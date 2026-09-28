@@ -1,0 +1,14 @@
+# Directorio de objetos intermedios generado por make
+build/
+
+# Binario del emulador
+chip8
+
+# Artefactos sueltos de compilacion
+*.o
+*.a
+*.out
+*.exe
+
+# Fixture temporal que crea el arnes de pruebas al verificar la carga de ROM
+test_rom_fixture.ch8
